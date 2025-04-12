@@ -1,7 +1,7 @@
 # team13:   $1$UT1CXi18$g65Loe8z1eyhdYsuW5lFs1:16653:0:99999:7:::
 # salt = $1$UT1CXi18$
 
-#import crypt
+import crypt
 import itertools
 import string
 
