@@ -2,6 +2,7 @@
 cs165 - computer security
 
 password: msthve 
+
 Number of threads/processes used 
 - 8 parallel processes used (one for each file for part_01.txt and so forth)
 - each process uses all CPU cores (8 in total) due to Pool(cpu_count())
